@@ -9,48 +9,59 @@
         <ScrollViewer HorizontalScrollBarVisibility="Auto">
             <StackPanel>
                 <StackPanel Orientation="Horizontal" Height="100">
-                    <Rectangle Fill="DeepPink" Width="80" Height="80" Margin="10"/>
+                    <!--<Rectangle Fill="DeepPink" Width="80" Height="80" Margin="10"/>-->
+                    <Image Width="80" Height="80" Margin="10"
+                           Source="https://picsum.photos/80/80?random=1"/>
                     <StackPanel VerticalAlignment="Center">
                         <TextBlock FontSize="25">보강: 11/15 A교시</TextBlock>
                         <TextBlock FontSize="20">휴강: 11/21 5교시</TextBlock>
                     </StackPanel>
                 </StackPanel>
                 <StackPanel Orientation="Horizontal" Height="100">
-                    <Rectangle Fill="DeepPink" Width="80" Height="80" Margin="10"/>
+                    <!--<Rectangle Fill="DeepPink" Width="80" Height="80" Margin="10"/>-->
+                    <Image Width="80" Height="80" Margin="10"
+                           Source="https://picsum.photos/80/80?random=2"/>
                     <StackPanel VerticalAlignment="Center">
                         <TextBlock FontSize="25">보강: 11/22 A교시</TextBlock>
                         <TextBlock FontSize="20">휴강: 11/21 6교시</TextBlock>
                     </StackPanel>
                 </StackPanel>
                 <StackPanel Orientation="Horizontal" Height="100">
-                    <Rectangle Fill="DeepPink" Width="80" Height="80" Margin="10"/>
+                    <!--<Rectangle Fill="DeepPink" Width="80" Height="80" Margin="10"/>-->
+                    <Image Width="80" Height="80" Margin="10"
+                           Source="https://picsum.photos/80/80?random=3"/>
                     <StackPanel VerticalAlignment="Center">
                         <TextBlock FontSize="25">보강: 11/29 A교시</TextBlock>
                         <TextBlock FontSize="20">휴강: 12/01 4교시</TextBlock>
                     </StackPanel>
                 </StackPanel>
                 <StackPanel Orientation="Horizontal" Height="100">
-                    <Rectangle Fill="DeepPink" Width="80" Height="80" Margin="10"/>
+                    <!--<Rectangle Fill="DeepPink" Width="80" Height="80" Margin="10"/>-->
+                    <Image Width="80" Height="80" Margin="10"
+                           Source="https://picsum.photos/80/80?random=4"/>
                     <StackPanel VerticalAlignment="Center">
                         <TextBlock FontSize="25">보강: 12/09 5,6교시</TextBlock>
                         <TextBlock FontSize="20">휴강: 09/12 5,6교시</TextBlock>
                     </StackPanel>
                 </StackPanel>
                 <StackPanel Orientation="Horizontal" Height="100">
-                    <Rectangle Fill="DeepPink" Width="80" Height="80" Margin="10"/>
+                    <!--<Rectangle Fill="DeepPink" Width="80" Height="80" Margin="10"/>-->
+                    <Image Width="80" Height="80" Margin="10"
+                           Source="https://picsum.photos/80/80?random=5"/>
                     <StackPanel VerticalAlignment="Center">
                         <TextBlock FontSize="25">보강: 12/12 5,6교시</TextBlock>
                         <TextBlock FontSize="20">휴강: 10/03 5,6교시</TextBlock>
                     </StackPanel>
                 </StackPanel>
                 <StackPanel Orientation="Horizontal" Height="100">
-                    <Rectangle Fill="DeepPink" Width="80" Height="80" Margin="10"/>
+                    <!--<Rectangle Fill="DeepPink" Width="80" Height="80" Margin="10"/>-->
+                    <Image Width="80" Height="80" Margin="10"
+                           Source="https://picsum.photos/80/80?random=6"/>
                     <StackPanel VerticalAlignment="Center">
                         <TextBlock FontSize="25">보강: 12/13 5,6교시</TextBlock>
                         <TextBlock FontSize="20">휴강: 10/10 5,6교시</TextBlock>
                     </StackPanel>
                 </StackPanel>
-
             </StackPanel>
         </ScrollViewer>
     </Border>
